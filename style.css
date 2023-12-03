@@ -1,0 +1,22 @@
+body {
+  background-image: url('https://i.postimg.cc/Y99Sy5Yw/bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: center;
+  background-size: 10000000px;
+}
+.profile h3 {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 20px 0px 8px 0px;
+}
+.social-link a {
+  font-size: 22px;
+}
+.button-link {
+display: -webkit-box;
+display: -webkit-flex;
+display: -ms flexbox;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
